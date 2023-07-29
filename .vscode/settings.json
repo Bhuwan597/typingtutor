@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "limits": "c",
+        "windows.h": "c",
+        "stdlib.h": "c",
+        "typeinfo": "c",
+        "time.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
