@@ -7,7 +7,8 @@
         "windows.h": "c",
         "stdlib.h": "c",
         "typeinfo": "c",
-        "time.h": "c"
+        "time.h": "c",
+        "unistd.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
